@@ -11,5 +11,6 @@
 - [4. ЦАП](https://github.com/dangerUser45/OIP-Projecs/tree/dac)
 - [5. АЦП](https://github.com/dangerUser45/OIP-Projecs/tree/adc)
 - [6. Пайка и 7. Автоматизированные измерения](https://github.com/dangerUser45/OIP-Projecs/tree/soldering_and_auto_meas)
+- [8. Обработка данных и построение графиков в Python и 9. Оформление отчёта](https://github.com/dangerUser45/Get_MIPT/tree/report_writing)
 
 ## Спасибо за внимание !
